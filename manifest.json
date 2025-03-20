@@ -1,0 +1,11 @@
+{
+  "name": "视频数据采集",
+  "description": "用于采集短视频博主数据的多维表格插件",
+  "version": "1.0.0",
+  "blockType": "blk_67dbb5a713fd4004b08bc02f",
+  "entry": "./src/index.js",
+  "main": "./src/views/main.vue",
+  "dependencies": {
+    "@base-open/web-api": "^1.0.0"
+  }
+}
