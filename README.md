@@ -15,9 +15,6 @@ cat > README.md << 'EOL'
 
 ## 开发说明
 基于飞书多维表格扩展开发框架构建。
-EOL
 
-# 添加并提交 README
-git add README.md
-git commit -m "docs: add README"
-git push
+
+
